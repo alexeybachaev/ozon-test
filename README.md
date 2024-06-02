@@ -1,3 +1,3 @@
 # ozon-test
 
-[ProgressBar]([https://alexeybachaev.github.io/ozon-test/])
+[DEMO](https://alexeybachaev.github.io/ozon-test/)
