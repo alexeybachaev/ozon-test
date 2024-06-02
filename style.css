@@ -1,0 +1,20 @@
+@import "./src/Components/Progressbar/ProgressBar.css";
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  height: 90vh;
+  max-width: 90%;
+  padding: 0 5%;
+  margin: 5% auto;
+  font-family: "Times New Roman", Times, serif;
+}
+
+@media screen and (max-width: 567px) {
+  .App {
+    max-width: 100%;
+    padding: 0 10%;
+  }
+}
